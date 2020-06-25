@@ -1,4 +1,4 @@
-package mx.ine.cartografia;
+package com.job;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
